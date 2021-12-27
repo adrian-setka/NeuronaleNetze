@@ -4,4 +4,5 @@
 03 - Vgg19 - Train Model dauert zu lange / wird nicht abgeschlossen
 
 00 a - Batchsize 50 (statt 10) - 98%
-00 b - Batchsize 100 (statt 10) - 99%
+00 b - Batchsize 100 - 99%
+00 c - Batchsize 150 - 99%
