@@ -6,3 +6,5 @@
 00 a - Batchsize 50 (statt 10) - 98%
 00 b - Batchsize 100 - 99%
 00 c - Batchsize 150 - 99%
+
+00 b a - Optimizer SGD (statt Adam)
