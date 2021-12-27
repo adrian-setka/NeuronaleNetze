@@ -2,3 +2,5 @@
 01 - Resnet18 - 91%
 02 - AlexNet - 94%
 03 - Vgg19 - Train Model dauert zu lange / wird nicht abgeschlossen
+
+00 a - Batchsize 50 (statt 10) und Number of Epochs 10 (statt 5)
